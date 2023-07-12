@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/anonymouspro/v21/rP2fp2a15UIB7Un-bOeISG3pHl4G9wn8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/anonymouspro/v21/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs74uz.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/anonymouspro/v21/rP2Bp2a15UIB7Un-bOeISG3pHls28A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/anonymouspro/v21/rP2cp2a15UIB7Un-bOeISG3pFuAT4C7c6A.ttf) format('truetype');
+}
